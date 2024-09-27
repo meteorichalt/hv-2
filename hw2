@@ -1,0 +1,7 @@
+a=int(input(rend))
+def foo(a):
+  b=int(input(key))
+  c=int(input(dine))
+  d=int(input(titan))
+  return ((-3+a**2)*b-2**3)/(c-2*d)
+print(foo(a))
